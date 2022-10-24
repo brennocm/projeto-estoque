@@ -5,12 +5,6 @@
 ### 📃 Descrição
 O objetivo do projeto é desenvolver um **Gerenciador de Estoque**, ou seja, um sistema a ser utilizado por um estabelecimento fabril.
 
-### 📚 Conteúdo
-- Projeto Final
-
-### 🌐 Motivação
-As atividades e o projeto compõem a nota final da disciplina de **SI200 - Algoritmos e Programação de Computadores II** (2º Semestre 2022) na Faculdade de Tecnologia (FT) UNICAMP.
-
 ### ✏️ Desenvolvedores
 - 👦 [Brenno Cavalcante Miranda](https://github.com/brennocm)
 - 👦 [Gediel Durães De Almeida](https://github.com/Gediel99)
