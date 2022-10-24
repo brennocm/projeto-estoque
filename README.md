@@ -1,4 +1,4 @@
-# SI200 - Algoritmos e Programação de Computadores II 💻
+# SI200 - Algoritmos e Programação de Computadores II
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
