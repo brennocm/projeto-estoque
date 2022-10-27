@@ -12,4 +12,4 @@ O objetivo do projeto é desenvolver um **Gerenciador de Estoque**, ou seja, um 
 - 👦 Alexander Alves Moreira
 - 👦 Antonio Carlos de Lima
 
-###### OBS: Este é um Fork do [repositório do Victor Shirasuna](https://github.com/vichShir).
+###### OBS: Este é um Fork do repositório do [Victor Shirasuna](https://github.com/vichShir).
