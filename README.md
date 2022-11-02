@@ -11,5 +11,3 @@ O objetivo do projeto é desenvolver um **Gerenciador de Estoque**, ou seja, um 
 - 👦 [Daniel Menezes ](https://github.com/DanielMenezes422)
 - 👦 [Alexander Alves Moreira](https://github.com/alerissetto)
 - 👦 Antonio Carlos de Lima
-
-###### OBS: Este é um Fork do repositório do [Victor Shirasuna](https://github.com/vichShir).
